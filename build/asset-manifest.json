@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5872cb90.css",
+    "main.js": "/static/js/main.9200a776.js",
+    "static/media/swiggypic.png": "/static/media/swiggypic.e0ee59bd1ca35e0148b9.png",
+    "static/media/vijaypradeepJ_Resume.pdf": "/static/media/vijaypradeepJ_Resume.d942d67d060c082955f7.pdf",
+    "static/media/dashboardpic.png": "/static/media/dashboardpic.650153001b82f7440faf.png",
+    "static/media/foodwebsite.png": "/static/media/foodwebsite.6a80f7a65d02e18305d1.png",
+    "static/media/userinfopic.png": "/static/media/userinfopic.680b0eacf6a34afe93d4.png",
+    "static/media/WeatherappPic.png": "/static/media/WeatherappPic.ef0158566f6a64860d86.png",
+    "static/media/TopWebsite.png": "/static/media/TopWebsite.3c2b8050b48a3bf881f4.png",
+    "static/media/vijay.jpg": "/static/media/vijay.81c71a68757734261fea.jpg",
+    "static/media/Todopic.png": "/static/media/Todopic.7b6bfc566547a3c926c1.png",
+    "static/media/HandleForm.jpg": "/static/media/HandleForm.2998b6d9ea0b429cb52c.jpg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/index.html",
+    "main.5872cb90.css.map": "/static/css/main.5872cb90.css.map",
+    "main.9200a776.js.map": "/static/js/main.9200a776.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5872cb90.css",
+    "static/js/main.9200a776.js"
+  ]
+}
